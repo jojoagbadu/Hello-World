@@ -1,3 +1,13 @@
 # Hello-World
 My first ever repository on jointing GitHub
-Daughter, sister, wife, mom, friend, geologist-turned-banker, curious, programmer-in-the-making, avid learner, beautiful, intelligent 
+Daughter 
+Sister 
+Wife 
+Mom 
+Friend, 
+Geologist-turned-banker
+Curious
+Programmer-in-the-making 
+Avid learner 
+Beautiful 
+Intelligent 
